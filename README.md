@@ -8,6 +8,6 @@ Majutatud e-posti aadressid:
 - Martin Lillepuu <martin@lillepuu.com>
 
 Viidatud veebisaidid:
-- (martin.lillepuu.com)[https://martin.lillepuu.com]
+- [martin.lillepuu.com](https://martin.lillepuu.com)
 
 Lisainfo: Martin Lillepuu <martin@lillepuu.com> +372 515 6450
