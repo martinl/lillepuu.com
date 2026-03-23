@@ -6,6 +6,7 @@ Siit saab igaüks kelle perenimi on Lillepuu soovi korral tasuta eesnimi@lillepu
 Majutatud e-posti aadressid (tähestiku järjekorras):
 - Marika Lillepuu <marika@lillepuu.com>
 - Martin Lillepuu <martin@lillepuu.com>
+- Piret-Ireen Lillepuu <piret-ireen@lillepuu.com>
 
 Viidatud veebisaidid:
 - [martin.lillepuu.com](https://martin.lillepuu.com)
